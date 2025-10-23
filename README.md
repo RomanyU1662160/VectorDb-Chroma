@@ -141,10 +141,9 @@ const collection = await client.createCollection({
   name: "my_collection"
 });
 
-// Add embeddings
+// Add embeddings, the OpenAIEmbeddingFunction from ChromaDB will handle embedding generation
 await collection.add({
   ids: ["id1", "id2"],
-  embeddings: [embedding1, embedding2],
   documents: ["Hello world", "How are you?"]
 });
 ```
