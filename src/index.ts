@@ -1,9 +1,10 @@
 import {
   createCollection,
   getChromaHeartbeat,
+  loadDataForTraining,
   prepareAndStoreTrainingData,
   queryCollection,
-} from './clients/chroma/utils';
+} from './clients/chroma-client/utils';
 import OpenAI from 'openai';
 import { startServer } from './server';
 
@@ -11,23 +12,22 @@ startServer();
 
 const userQuery = 'How long does shipping take to deliver a product?';
 // const userQuery = 'How much does the shipping cost?';
+const fileName = 'data/product.json';
+const collectionName = 'customer_support';
 
 getChromaHeartbeat();
 // resetDatabase();
 const setupChromaDB = async () => {
-  const result = await createCollection('customer_support');
+  const result = await createCollection(collectionName);
   console.log('Collection created:', result);
+  const trainingData = await loadDataForTraining(fileName);
 
-  await prepareAndStoreTrainingData();
+  await prepareAndStoreTrainingData(collectionName, trainingData);
 };
 
 const answerUserQuery = async () => {
-  // await setupChromaDB(); // Uncomment this line only for the first run to set up the DB
-  const knowledgeContext = await queryCollection(
-    'customer_support',
-    userQuery,
-    2
-  );
+  await setupChromaDB(); // Uncomment this line only for the first run to set up the DB
+  const knowledgeContext = await queryCollection(collectionName, userQuery, 2);
 
   console.log('Chroma DB query result:', knowledgeContext);
   const openai = new OpenAI();

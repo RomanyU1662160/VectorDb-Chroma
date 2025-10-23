@@ -1,0 +1,160 @@
+# TechCorp Employee Handbook
+
+## Company Overview
+
+TechCorp is a leading technology company committed to innovation, collaboration, and employee satisfaction. This handbook outlines our key policies and procedures.
+
+## Vacation Policy
+
+### Paid Time Off (PTO)
+
+All full-time employees are entitled to paid time off based on their length of service:
+
+- 0-1 years: 15 days annually
+- 2-5 years: 20 days annually  
+- 6+ years: 25 days annually
+
+### Requesting Time Off
+
+1. Submit vacation requests through the HR portal at least 2 weeks in advance
+2. Manager approval is required for all requests
+3. Blackout periods apply during Q4 (November-December)
+4. Maximum 2 consecutive weeks without special approval
+
+### Sick Leave
+
+- All employees receive 10 sick days per year
+- No doctor's note required for absences under 3 days
+- Sick leave cannot be carried over to the following year
+
+## Benefits Package
+
+### Health Insurance
+
+TechCorp provides comprehensive health coverage:
+
+- Medical: 100% premium coverage for employee, 80% for family
+- Dental: Full coverage for preventive care, 80% for major procedures
+- Vision: Annual eye exams and $200 frame allowance
+
+### Retirement Plans
+
+- 401(k) with 6% company match
+- Immediate vesting for all contributions
+- Financial planning resources available
+
+### Additional Benefits
+
+- Life insurance (2x annual salary)
+- Flexible spending accounts (FSA)
+- Employee assistance program (EAP)
+- Gym membership reimbursement up to $50/month
+
+## Work Schedule and Remote Work
+
+### Standard Hours
+
+- Core business hours: 9:00 AM - 5:00 PM
+- Flexible start times between 7:00 AM - 10:00 AM
+- 40-hour work week standard
+
+### Remote Work Policy
+
+- Eligible after 6 months of employment
+- Up to 3 days per week remote work allowed
+- Must maintain reliable internet and dedicated workspace
+- Required to attend in-person meetings when scheduled
+
+### Overtime
+
+- Non-exempt employees receive 1.5x pay for hours over 40/week
+- Overtime must be pre-approved by manager
+- Comp time may be offered in lieu of overtime pay
+
+## Code of Conduct
+
+### Professional Behavior
+
+All employees must:
+- Treat colleagues with respect and dignity
+- Maintain confidentiality of company information
+- Avoid conflicts of interest
+- Report unethical behavior promptly
+
+### Dress Code
+
+- Business casual attire for office days
+- Professional appearance for client meetings
+- Casual dress allowed on Fridays and remote work days
+
+### Communication Guidelines
+
+- Use professional language in all business communications
+- Respond to emails within 24 hours during business days
+- Keep meetings focused and productive
+
+## Safety and Security
+
+### Workplace Safety
+
+- Report all injuries immediately to HR
+- Follow all safety protocols and procedures
+- Keep workspaces clean and organized
+- No alcohol or drugs permitted on premises
+
+### Information Security
+
+- Use strong passwords and enable 2FA
+- Do not share login credentials
+- Report suspected security incidents immediately
+- Lock computers when away from desk
+
+## Performance and Development
+
+### Performance Reviews
+
+- Annual reviews conducted each January
+- Mid-year check-ins with managers
+- Goal setting and development planning included
+- Performance ratings impact compensation and promotions
+
+### Training and Development
+
+- $2,000 annual education budget per employee
+- Conference attendance encouraged
+- Internal mentorship programs available
+- Tuition reimbursement for job-related courses
+
+## Disciplinary Procedures
+
+### Progressive Discipline
+
+1. Verbal warning (documented)
+2. Written warning
+3. Performance improvement plan (30-90 days)
+4. Suspension or termination
+
+### Immediate Termination Offenses
+
+- Theft or fraud
+- Violence or threats
+- Harassment or discrimination
+- Violation of confidentiality agreements
+
+## Contact Information
+
+### Human Resources
+- Email: hr@techcorp.com
+- Phone: (555) 123-4567
+- Office: Building A, 2nd Floor
+
+### IT Support
+- Help Desk: (555) 123-HELP
+- Email: support@techcorp.com
+- Emergency After Hours: (555) 123-9999
+
+---
+
+This handbook is effective as of January 1, 2024, and supersedes all previous versions. TechCorp reserves the right to modify policies as needed with appropriate notice to employees.
+
+For questions about any policy, please contact the Human Resources department.
